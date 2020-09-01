@@ -73,3 +73,5 @@ for (var i = 0; i < (words.length / maxWords); i++) {
 }
 ```
 This breaks down your large request into several small requests.
+## Conclusion
+Spin Rewriter is a really simple api allowing you to interact with a really powerful Natural Language Processing Technology! :simple_smile:
