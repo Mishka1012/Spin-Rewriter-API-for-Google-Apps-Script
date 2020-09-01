@@ -54,7 +54,7 @@ As you can see it is a really simple api with no 'head' variable necessary.
 - reorder_paragraphs: Should Spin Rewriter intelligently randomize the order of paragraphs and unordered lists when generating spun text?
 - spintax_format: The spintax format of the returned spun text.
   - {|}: the {first option|second option} spintax used (default setting)
-  - {~}: the {first option~second option} spintax used
+  - {\~}: the {first option\~second option} spintax used
   - \[|\]: the \[first option|second option\] spintax used
   - \[spin\]: the \[spin\]first option|second option\[/spin\] spintax used
   - #SPIN: the {#SPIN: first option || second option #} spintax used
