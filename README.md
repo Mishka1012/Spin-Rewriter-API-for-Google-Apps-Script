@@ -1,7 +1,7 @@
 # Spin-Rewriter-API-for-Google-Apps-Script
 Since Spin Rewriter only provides Python and PHP examples on their website I thought I would share my JavaScript Google Apps Script code for working with Spin Rewriter API!
 ## Getting Started
-First you will need to have your Spin Rewriter(SR) account information.  Your SR login email and your SR API Key.  API key can be found [here][https://www.spinrewriter.com/cp-api] once you are logged in.
+First you will need to have your Spin Rewriter(SR) account information.  Your SR login email and your SR API Key.  API key can be found [here](https://www.spinrewriter.com/cp-api) once you are logged in.
 ## Making API Call
 Here is how you make a call on the SR API.
 
@@ -33,7 +33,7 @@ function uniqueSpin(text) {
   }
 }
 ```
-Refer to [this link][https://www.spinrewriter.com/cp-api-documentation] for action options.
+Refer to [this link](https://www.spinrewriter.com/cp-api-documentation) for action options.
 - api_quota: returns the number of made and remaining API calls for the 24-hour period
 - text_with_spintax: returns the processed spun text with spintax
 - unique_variation: returns a unique variation of processed given text
