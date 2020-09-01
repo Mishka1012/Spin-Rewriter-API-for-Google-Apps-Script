@@ -1,4 +1,4 @@
-# Spin-Rewriter-API-for-Google-Apps-Script
+# Spin Rewriter API for Google Apps Script
 Since Spin Rewriter only provides Python and PHP examples on their website I thought I would share my JavaScript Google Apps Script code for working with Spin Rewriter API!
 ## Getting Started
 First you will need to have your Spin Rewriter(SR) account information.  Your SR login email and your SR API Key.  API key can be found [here](https://www.spinrewriter.com/cp-api) once you are logged in.
