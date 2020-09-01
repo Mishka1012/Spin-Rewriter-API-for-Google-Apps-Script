@@ -61,7 +61,7 @@ As you can see it is a really simple api with no 'head' variable necessary.
 ## Dealing with Long Strings
 Take note that there has to be a 7 seconds delay between api calls.  Also for spinning text you can only spin up to 4000 words at a time so I have implemented this workaround for really large texts:
 ```javascript
-var massiveString("YOUR_LARGE_TEXT");
+var massiveString = "YOUR_LARGE_TEXT";
 var words = massiveString.split(" ");
 var maxWords = 4000;
 var spunString = "";
